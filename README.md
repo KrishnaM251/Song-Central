@@ -2,10 +2,10 @@
 
 See about section for general overview.
 
-##Stack 
+###Stack 
 MERN (with a bit of Typescript)
 
-##Cool Packages Used
+###Cool Packages Used
 react-tinder-card
 react-player
 react-fade-in
@@ -13,6 +13,6 @@ react-cookie
 jsonwebtoken
 bcrypt
 
-##Demo
+###Demo
 https://youtu.be/oJkyrHbaimA
 
