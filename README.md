@@ -1,3 +1,18 @@
 # Song Central: Reach for the sky.
 
-This app is designed to connect artists and record labels by showcasing a song from each party. Similar to Tinder, if both parties swipe right on the other parties sample, then they are matched and able to chat and make deals with each other!
+See about section for general overview.
+
+##Stack 
+MERN (with a bit of Typescript)
+
+##Cool Packages Used
+react-tinder-card
+react-player
+react-fade-in
+react-cookie
+jsonwebtoken
+bcrypt
+
+##Demo
+https://youtu.be/oJkyrHbaimA
+
